@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/uv/',
-    bare: 'https://restorations.work',
+    bare: 'https://bare.restorations.work/bare/',
     encodeUrl: Ultrawide.codec.xor.encode,
     decodeUrl: Ultrawide.codec.xor.decode,
     handler: '/uv/uv.handler.js',
